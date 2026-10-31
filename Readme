@@ -1,0 +1,159 @@
+RynoX
+
+An advanced, multipurpose Discord bot built with Python.
+
+RynoX is a feature-rich Discord bot designed to help communities manage, protect, and customize their servers. It includes moderation tools, automoderation, antinuke protection, ticket management, logging, utility commands, games, and more.
+
+Features
+
+Moderation
+
+- Ban and unban members
+- Kick members
+- Warnings management
+- Timeout management
+- Message purge
+- Moderation utilities
+
+Security & Protection
+
+- Advanced antinuke system
+- Honeypot protection
+- Automoderation
+- Webhook logging
+- Server protection tools
+
+Server Management
+
+- Welcome and farewell system
+- Autorole system
+- Reaction roles
+- Custom autoresponder
+- Ticket system
+- Server logging
+- Giveaway management
+
+Utility & Information
+
+- User information
+- Server information
+- Channel information
+- Role information
+- Bot statistics
+- Custom help menu
+
+Fun & Games
+
+- Tic-Tac-Toe
+- Chess
+- Wordle
+- Connect Four
+- Rock Paper Scissors
+- 2048
+- Country Guess
+- Type Racer
+
+Technology
+
+- Python
+- discord.py
+- AsyncIO
+- SQLite support
+- JSON-based configuration
+- Discord Slash Commands
+- Modular Cog Architecture
+
+Installation
+
+1. Clone the repository
+
+git clone YOUR_REPOSITORY_URL
+cd RynoX-Bot
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Configure environment variables
+
+Create a ".env" file in the project directory.
+
+DISCORD_TOKEN=YOUR_BOT_TOKEN
+BOT_PREFIX=.
+CLIENT_ID=YOUR_CLIENT_ID
+OWNER_IDS=YOUR_DISCORD_ID
+
+WEBSITE=
+SUPPORT_SERVER=
+STATUS_PAGE=
+INVITE_URL=
+
+4. Start the bot
+
+python main.py
+
+Configuration
+
+Variable| Description
+"DISCORD_TOKEN"| Discord bot token
+"BOT_PREFIX"| Default command prefix
+"CLIENT_ID"| Discord application ID
+"OWNER_IDS"| Bot owner IDs
+"SUPPORT_SERVER"| Support server URL
+"WEBSITE"| Website URL
+"STATUS_PAGE"| Status page URL
+"INVITE_URL"| Bot invitation URL
+
+Additional webhook variables can be configured in ".env".
+
+Project Structure
+
+RynoX-Bot/
+├── main.py
+├── requirements.txt
+├── cogs/
+│   ├── moderation.py
+│   ├── automod.py
+│   ├── antinuke_core.py
+│   ├── antinuke_modules.py
+│   ├── ticket.py
+│   ├── logging.py
+│   ├── welcome.py
+│   ├── giveaway.py
+│   └── ...
+├── utils/
+│   ├── config.py
+│   ├── emojis.py
+│   ├── paginator.py
+│   └── ...
+├── games/
+├── assets/
+├── data/
+└── requirements.txt
+
+Dashboard
+
+RynoX currently runs as a standalone Discord bot.
+
+The web dashboard system and its API backend have been removed. Bot functionality is handled directly through Discord.
+
+Security
+
+- Never share your Discord bot token.
+- Never upload your real ".env" file to GitHub.
+- Use environment variables for private credentials.
+- Keep webhook URLs and API keys private.
+
+Important: Add ".env" to ".gitignore" before publishing your repository. Use a ".env.example" containing placeholders instead.
+
+Credits
+
+Project: RynoX
+Language: Python
+Platform: Discord
+
+Built for server management, security, moderation, and community utilities.
+
+---
+
+RynoX — More control. Better protection. Smarter management.
