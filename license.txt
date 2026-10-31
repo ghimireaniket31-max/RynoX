@@ -1,0 +1,39 @@
+RYNOX — PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 RynoX. All Rights Reserved.
+
+1. OWNERSHIP
+
+All source code, files, designs, systems, features, and documentation contained in this repository are the exclusive intellectual property of their respective copyright owner.
+
+2. RESTRICTIONS
+
+Without prior written permission from the copyright owner, you may NOT:
+
+- Copy or reproduce any part of this project.
+- Modify, edit, or create derivative versions of the source code.
+- Redistribute, republish, or upload this project elsewhere.
+- Claim this project or any part of it as your own.
+- Sell, sublicense, or commercially distribute this software.
+- Remove or alter copyright notices, credits, or ownership information.
+- Use this project as the basis for another publicly distributed project.
+
+3. PERMISSION
+
+Access to this repository does not grant permission to copy, modify, distribute, or commercially use the software.
+
+Any additional permissions must be granted explicitly in writing by the copyright owner.
+
+4. DISCLAIMER
+
+This software is provided "AS IS", without warranties of any kind, express or implied. The copyright owner shall not be held liable for damages arising from the use or inability to use this software.
+
+5. COPYRIGHT
+
+Unauthorized copying, modification, redistribution, or use of this software is prohibited.
+
+All rights reserved.
+
+PROJECT: RynoX
+LICENSE TYPE: PROPRIETARY
+YEAR: 2026
