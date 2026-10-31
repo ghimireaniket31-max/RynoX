@@ -1,0 +1,14 @@
+git+https://github.com/Rapptz/discord.py.git@master
+psutil>=5.9.0
+python-dotenv>=1.0.0
+aiohttp>=3.9.0
+Pillow
+aiosqlite
+wavelink>=3.0
+lavalink
+
+# --- needed by the commands ported from ZyroX (cogs/extended) - all small ---
+git+https://github.com/Rapptz/discord-ext-menus.git
+requests
+deep-translator
+python-chess

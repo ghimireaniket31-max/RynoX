@@ -1,0 +1,12 @@
+{
+  "_comment": "Emojis created from local image files. scripts/upload_application_emojis.py uploads each file as an Application emoji (name = key in lower case) and records the ID in emojis.uploaded.json. Until then the unicode fallback from emojis.json is shown.",
+  "CAT_FUN_GAMES": "assets/emojis/cat_fun_games.png",
+  "CAT_VOICE_TOOLS": "assets/emojis/cat_voice_tools.png",
+  "CAT_LEVELING": "assets/emojis/cat_leveling.png",
+  "CAT_AI": "assets/emojis/cat_ai.png",
+  "CAT_MODERATION_PLUS": "assets/emojis/cat_moderation_plus.png",
+  "CAT_SERVER_TOOLS": "assets/emojis/cat_server_tools.png",
+  "CAT_UTILITY": "assets/emojis/cat_utility.png",
+  "CAT_HONEYPOT": "assets/emojis/cat_honeypot.png",
+  "CAT_VERIFICATION": "assets/emojis/cat_verification.png"
+}
